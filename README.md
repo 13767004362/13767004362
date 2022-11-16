@@ -1,4 +1,10 @@
 ### Hi there 👋
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=13767004362&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+
+I am a professional Android Developer and a software architect.
+
+- 🔭 I’m starting a business in <b>Shen Zhen, China.</b>
+- 🌱 I’m currently working on  game.
 
 <!--
 **13767004362/13767004362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
